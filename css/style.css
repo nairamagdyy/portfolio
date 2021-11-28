@@ -710,25 +710,25 @@ body {
 
 .position3 {
     position: absolute;
-    top: 240px;
+    top: 24%;
     left: 0;
 }
 
 .position4 {
     position: absolute;
-    top: 240px;
+    top: 24%;
     right: 0;
 }
 
 .position5 {
     position: absolute;
-    top: 480px;
+    top: 48%;
     right: 0;
 }
 
 .position6 {
     position: absolute;
-    top: 575px;
+    top: 58.5%;
     left: 50%;
     -webkit-transform: translateX(-50%);
     -ms-transform: translateX(-50%);
@@ -2132,25 +2132,25 @@ body {
 
     .position3 {
         position: absolute;
-        top: 220px;
+        top: 25%;
         left: 0;
     }
 
     .position4 {
         position: absolute;
-        top: 220px;
+        top: 25%;
         right: 0;
     }
 
     .position5 {
         position: absolute;
-        top: 440px;
+        top: 50%;
         right: 0;
     }
 
     .position6 {
         position: absolute;
-        top: 547px;
+        top: 61%;
         left: 50%;
         -webkit-transform: translateX(-50%);
         -ms-transform: translateX(-50%);
